@@ -24,18 +24,6 @@ module.exports = (_ => {
         },
         "changelog": [
             {
-                "title": "v1.0.2",
-                "items": [
-                    "Fixed a bug introduced by missing ActionTypes in a recent discord update"
-                ]
-            },
-            {
-                "title": "v1.0.1",
-                "items": [
-                    "Fixed missing library modal"
-                ]
-            },
-            {
                 "title": "Initial Release",
                 "items": [
                     "This is the initial release of the plugin :)"
