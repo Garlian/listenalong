@@ -4,29 +4,29 @@
  * @authorId 718760221706551337
  * @version 1.0.2
  * @description Enables Spotify Listen Along feature on Discord without Premium
- * @source https://github.com/Garlian/listenalong https://github.com/ordinall/BetterDiscord-Stuff/tree/master/Plugins/SpotifyListenAlong/
- * @updateUrl https://raw.githubusercontent.com/ordinall/BetterDiscord-Stuff/master/Plugins/SpotifyListenAlong/SpotifyListenAlong.plugin.js
+ * @source https://github.com/Garlian/listenalong
+ * @updateUrl https://github.com/Garlian/listenalong/blob/main/listenalong.plugin.js
  */
 
 module.exports = (_ => {
     const config = {
         "info": {
-            "name": "SpotifyListenAlong",
+            "name": "ListenAlong",
             "authors": [{
-                "name": "ordinall",
-                "discord_id": "374663636347650049",
-                "github_username": "ordinall",
+                "name": "Garlian",
+                "discord_id": "718760221706551337",
+                "github_username": "Garlian",
             }],
             "version": "1.0.2",
             "description": "Enables Spotify Listen Along feature on Discord without Premium",
-            "github": "https://github.com/ordinall/BetterDiscord-Stuff/tree/master/Plugins/SpotifyListenAlong/",
-            "github_raw": "https://raw.githubusercontent.com/ordinall/BetterDiscord-Stuff/master/Plugins/SpotifyListenAlong/SpotifyListenAlong.plugin.js"
+            "github": "https://github.com/Garlian/listenalong",
+            "github_raw": "https://raw.githubusercontent.com/Garlian/listenalong/blob/main/listenalong.plugin.js"
         },
         "changelog": [
             {
                 "title": "v1.0.2",
                 "items": [
-                    "Fixed a bug introduced by missing ActionTypes in a recent discord update (Thanks @Qwerasd and @Gam3rr)"
+                    "Fixed a bug introduced by missing ActionTypes in a recent discord update"
                 ]
             },
             {
