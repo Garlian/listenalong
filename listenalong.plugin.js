@@ -17,7 +17,7 @@ module.exports = (_ => {
                 "discord_id": "718760221706551337",
                 "github_username": "Garlian",
             }],
-            "version": "1.0.2",
+            "version": "0.0.1",
             "description": "Enables Spotify Listen Along feature on Discord without Premium",
             "github": "https://github.com/Garlian/listenalong",
             "github_raw": "https://raw.githubusercontent.com/Garlian/listenalong/main/listenalong.plugin.js"
