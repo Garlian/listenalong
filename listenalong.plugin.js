@@ -5,7 +5,7 @@
  * @version 1.0.2
  * @description Enables Spotify Listen Along feature on Discord without Premium
  * @source https://github.com/Garlian/listenalong
- * @updateUrl https://github.com/Garlian/listenalong/blob/main/listenalong.plugin.js
+ * @updateUrl https://github.com/Garlian/listenalong/main/listenalong.plugin.js
  */
 
 module.exports = (_ => {
@@ -20,7 +20,7 @@ module.exports = (_ => {
             "version": "1.0.2",
             "description": "Enables Spotify Listen Along feature on Discord without Premium",
             "github": "https://github.com/Garlian/listenalong",
-            "github_raw": "https://raw.githubusercontent.com/Garlian/listenalong/blob/main/listenalong.plugin.js"
+            "github_raw": "https://raw.githubusercontent.com/Garlian/listenalong/main/listenalong.plugin.js"
         },
         "changelog": [
             {
